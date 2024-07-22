@@ -23,13 +23,13 @@
 <meta property="og:site_name" content="Xiaochen Wang">
 <meta property="og:description" content="Publications FSM: A Finite State Machine Based Zero-Shot Prompting Paradigm forMulti-Hop Question Answering  Xiaochen Wang, Junqing He, Zhe Yang, Yiru Wang, Xiangdi Meng,Kunhao Pan, Zhifang Sui EMNLP">
 <meta property="og:locale" content="en_US">
-<meta property="og:image" content="http://2018211801.github.io/%5Cimg%5Cplora.png">
-<meta property="og:image" content="http://2018211801.github.io/%5Cimg%5Cner.png">
+<meta property="og:image" content="http://2018211801.github.io/publications/index/%5Cimg%5Cplora.png">
+<meta property="og:image" content="http://2018211801.github.io/publications/index/%5Cimg%5Cner.png">
 <meta property="article:published_time" content="2024-07-18T16:00:00.000Z">
 <meta property="article:modified_time" content="2024-07-22T08:43:24.160Z">
 <meta property="article:author" content="John Doe">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="http://2018211801.github.io/%5Cimg%5Cplora.png">
+<meta name="twitter:image" content="http://2018211801.github.io/publications/index/%5Cimg%5Cplora.png">
   
   
   
@@ -247,7 +247,7 @@
 <p> We propose PeriodicLoRA (PLoRA), a method that periodically unloads the LoRA matrices back to the original backbone with a ratio. This process generates a higher rank update matrix by accumulating low rank matrices without extra memory usage.</p>
 <p><strong>{Results:}</strong> </p>
 <p> Experimental findings demonstrate that PLoRA with low rank outperforms LoRA, improving training speed by 80%.   </p>
-<p><img src="/%5Cimg%5Cplora.png" srcset="/img/loading.gif" lazyload alt="PLoRA"></p>
+<p><img src="/publications/index/%5Cimg%5Cplora.png" srcset="/img/loading.gif" lazyload alt="PLoRA"></p>
 <p><strong>LoRA++, Adding an Implicit Momentum SGD  Optimizer for LoRAs {2024.05 - present}}</strong><br><strong>{Problems:}</strong><br>  When tuning PLoRA, we discovered that the parameter update process can be viewed from the perspective of an optimizer, with the update interval treated as the batch size and PLoRA resembling momentum-SGD.<br><strong>{Solutions:}</strong><br>  Inspiring from optimization, we incorporated dynamic learning rates and batch size to relieve overfitting. Besides, we imitate the AdamW to make the parameter updates smoother.<br><strong>{Results:}</strong><br>  Our method, employing a lower-rank parameter scale, can outperform higher-rank LoRA and perform on par with full fine-tuning.</p>
 <p><strong>RouterLoRA, LoRA Meets MOE, exploring {2024.03 - 2024.04}</strong><br><strong>{Problems:}</strong><br>  Using LoRA combined with MOE resolves the capability conflicts in multitask training by incorporating multiple LoRA modules as experts to isolate the parameter space. There are two different projects.</p>
 <p><strong>{Solution1:}</strong><br>  Instead of topk strategy, we fix foundational expert to share common knowledge or information avoiding knowledge redundancy in different experts.<br><strong>{Solution2:}</strong><br> Pre-trained LLMs is equipped with foundational knowledge and do not require finetuning for certain data. We design a dynamic selection (0-k) of experts, allowing the model to learn how to choose a number of experts for processing.</p>
@@ -256,8 +256,8 @@
 <p>Comic strips can be considered as important frames in video. We use them to evaluate the capability of video-LLM to understand the deep meanings of sequential multiple images.<br><strong>{Solutions:}</strong><br> We design three tasks: next frame prediction, Reorganize and deep meaning to evaluate.</p>
 <p><strong>Statistical Dataset Evaluation: Reliability, Difficulty, and Validity {2022.09 - 2023.01}</strong> <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2212.09272">Link</a><br><strong>{Problems:}</strong><br>  Existing datasets have exposed numerous issues, leading to biased models and unreliable evaluation, without human evaluation of dataset quality.<br><strong>{Solutions:}</strong><br>  We seek to understand the statistical properties of datasets and address three fundamental dimensions: reliability, difficulty, and validity. Taking the Named Entity Recognition datasets as a case study, we introduce $9$ statistical metrics.</p>
 <p><strong>{Results:}</strong><br> We studied how the scores of datasets on statistical metrics impact model performance and advocate for assessing dataset quality or making targeted improvements to datasets before training or testing models.</p>
-<p><img src="/%5Cimg%5Cner.png" srcset="/img/loading.gif" lazyload alt="metrics"></p>
-
+<p><img src="/publications/index/%5Cimg%5Cner.png" srcset="/img/loading.gif" lazyload alt="metrics"></p>
+</rb>
 
   
 
