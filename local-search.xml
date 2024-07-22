@@ -4,50 +4,11 @@
   
   
   <entry>
-    <title>blog</title>
-    <link href="/blog/"/>
-    <url>/blog/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>publications</title>
-    <link href="/blog/"/>
-    <url>/blog/</url>
-    
-    <content type="html"><![CDATA[]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>cv</title>
-    <link href="/blog/"/>
-    <url>/blog/</url>
-    
-    <content type="html"><![CDATA[<figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">&#123;% pdf https:<span class="hljs-regexp">//</span>cdn.jsdelivr.net<span class="hljs-regexp">/gh/</span><span class="hljs-number">2018211801</span><span class="hljs-regexp">/blog_source/</span>wangxiaochen_PHD_application(<span class="hljs-number">1</span>).pdf %&#125;<br></code></pre></td></tr></table></figure>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
     <title></title>
     <link href="/blog/"/>
     <url>/blog/</url>
     
-    <content type="html"><![CDATA[<h1 id=""><a href="#" class="headerlink" title=""></a></h1><h2 id="About"><a href="#About" class="headerlink" title="About"></a>About</h2><p>Hi, I am Xiaochen Wang, a master student at PKU-NLP group, supervised by Prof. Zhifang Sui. Previously, I completed my bachelor’s degree at Beijing University of Posts and Telecommunications (BUPT) in July 2022.</p><p><strong>I am looking for a phd opportunity, please contact me if you are interested.</strong></p><p>I am broadly interested in natural language processing and machine learning.  My current research focuses on enhancing the reasoning capabilities of LLMs and efficient training.<br> I am also interested in multimodal and embodied intelligence because they can be implemented in real-world applications in the future.  </p><p>I am happy to discuss potential collaboration opportunities, feel free to reach out!</p><h2 id="Projects"><a href="#Projects" class="headerlink" title="Projects"></a>Projects</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="About"><a href="#About" class="headerlink" title="About"></a>About</h2><p>Hi, I am Xiaochen Wang, a master student at PKU-NLP group, supervised by Prof. Zhifang Sui. Previously, I completed my bachelor’s degree at Beijing University of Posts and Telecommunications (BUPT) in July 2022.</p><p><font color="red"> <strong>I am looking for a phd opportunity, please contact me if you are interested.</strong> </font> </p><p>I am broadly interested in natural language processing and machine learning.  My current research focuses on enhancing the reasoning capabilities of LLMs and efficient training.<br> I am also interested in multimodal and embodied intelligence because they can be implemented in real-world applications in the future.  </p><p>I am happy to discuss potential collaboration opportunities, feel free to reach out!</p><center class="half">     <img src="https://th.bing.com/th?id=OIP.dsFUhUkZxymC55UO-Yhs8AHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" width="200" />    <img src="https://th.bing.com/th?id=OIP.dSdXTssXAbd9FDo1CEZQaQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" width="200" />     <br>    <b> EDUCATION </b> </center><p>​    </p><center class="third">    <img src="https://www.bing.com/th?id=OIP.QH0l9ULFQpjqDxUPT7yXBwHaES&w=226&h=250&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" width="150" \>    <img src="https://th.bing.com/th?id=OIP.IZCudkcsiFaaeb59O2eE5gHaFj&w=288&h=216&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" width="200" \>    <img src="https://th.bing.com/th?id=OIP.msY8l4LDBtWW1_oak6z8lAAAAA&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=2&pid=3.1&rm=2" width="200" \>   <br>    <b>  INTERSHIP </b></center>]]></content>
     
     
     
